@@ -129,7 +129,6 @@ namespace Uri {
           return keys;
         }
 
-    private:
         //first is key second is value
         std::unordered_map<std::string, std::string> params;
     };
